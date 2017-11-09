@@ -1,6 +1,642 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo=¨¨ group-title="", listadorenato
+#EXTINF:-1 tvg-logo=¨¨ group-title="", listadore
+
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/87.ts
+#EXTINF:-1,A&E HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/843.ts
+#EXTINF:-1,ANIMAL PLANET
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/86.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/295.ts
+#EXTINF:-1,APARECIDA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/161.ts
+#EXTINF:-1,ARTE 1
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/160.ts
+#EXTINF:-1,AXN
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/85.ts
+#EXTINF:-1,AXN HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/504.ts
+#EXTINF:-1,BAND
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/88.ts
+#EXTINF:-1,BAND HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/296.ts
+#EXTINF:-1,BAND SPORTS SD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/84.ts
+#EXTINF:-1,BAND SPORTS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/534.ts
+#EXTINF:-1,BAND NEWS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/89.ts
+#EXTINF:-1,BAND NEWS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/857.ts
+#EXTINF:-1,BIS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/83.ts
+#EXTINF:-1,BIS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/535.ts
+#EXTINF:-1,BOOMERANG
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/90.ts
+#EXTINF:-1,CANAL BRASIL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/159.ts
+#EXTINF:-1,CANAL BRASIL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/847.ts
+#EXTINF:-1,CANAL RURAL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/158.ts
+#EXTINF:-1,CANCAO NOVA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/157.ts
+#EXTINF:-1,CARTOON NETWORK
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/82.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/777.ts
+#EXTINF:-1,CBS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/666.ts
+#EXTINF:-1,CBS NEWS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/668.ts
+#EXTINF:-1,CINEMAX
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/91.ts
+#EXTINF:-1,CINEMAX HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/842.ts
+#EXTINF:-1,CURTA!
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/155.ts
+#EXTINF:-1,COMBATE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/135.ts
+#EXTINF:-1,COMBATE HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/136.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/156.ts
+#EXTINF:-1,CULTURA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/81.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/80.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/288.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/79.ts
+#EXTINF:-1,Discovery Home e Health
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/92.ts
+#EXTINF:-1,Discovery Home e Health HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/297.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/93.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/852.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/94.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/95.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/298.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/859.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/537.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/96.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/851.ts
+#EXTINF:-1,DISNEY JR
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/97.ts
+#EXTINF:-1,DISNEY XD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/98.ts
+#EXTINF:-1,E!
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/99.ts
+#EXTINF:-1,E! HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/869.ts
+#EXTINF:-1,EI MAXX
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/100.ts
+#EXTINF:-1,EI MAXX HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/300.ts
+#EXTINF:-1,EI MAXX 2
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/43.ts
+#EXTINF:-1,EI MAXX 2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/299.ts
+#EXTINF:-1,ESPN
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/77.ts
+#EXTINF:-1,ESPN HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/538.ts
+#EXTINF:-1,ESPN+
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/770.ts
+#EXTINF:-1,ESPN + HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/713.ts
+#EXTINF:-1,ESPN BRASIL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/101.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/301.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/42.ts
+#EXTINF:-1,FISH TV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/162.ts
+#EXTINF:-1,FOOD NETWORK
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/173.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/870.ts
+#EXTINF:-1,FOX
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/75.ts
+#EXTINF:-1,FOX HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/291.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/302.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/303.ts
+#EXTINF:-1,FOX LIFE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/74.ts
+#EXTINF:-1,FOX LIFE HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/539.ts
+#EXTINF:-1,FOX SPORTS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/73.ts
+#EXTINF:-1,FOX SPORTS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/304.ts
+#EXTINF:-1,FOX SPORTS 2
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/72.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/518.ts
+#EXTINF:-1,FX
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/103.ts
+#EXTINF:-1,FX HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/513.ts
+#EXTINF:-1,FUTURA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/102.ts
+#EXTINF:-1,GLOBO BRASILIA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/771.ts
+#EXTINF:-1,GLOBO MINAS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/175.ts
+#EXTINF:-1,GLOBO MG FULL-HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/170.ts
+#EXTINF:-1,GLOBO NEWS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/71.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/856.ts
+#EXTINF:-1,GLOBO RJ
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/772.ts
+#EXTINF:-1,GLOBO RJ HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/329.ts
+#EXTINF:-1,GLOBO SP
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/351.ts
+#EXTINF:-1,GLOBO SP HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/528.ts
+#EXTINF:-1,GLOOB
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/70.ts
+#EXTINF:-1,GLOOB HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/853.ts
+#EXTINF:-1,GNT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/105.ts
+#EXTINF:-1,GNT HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/541.ts
+#EXTINF:-1,H2
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/106.ts
+#EXTINF:-1,H2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/523.ts
+#EXTINF:-1,HBO
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/69.ts
+#EXTINF:-1,HBO HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/306.ts
+#EXTINF:-1,HBO 2
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/107.ts
+#EXTINF:-1,HBO 2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/305.ts
+#EXTINF:-1,HBO FAMILY
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/108.ts
+#EXTINF:-1,HBO FAMILY HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/524.ts
+#EXTINF:-1,HBO PLUS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/68.ts
+#EXTINF:-1,HBO PLUS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/525.ts
+#EXTINF:-1,HBO PLUS E
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/352.ts
+#EXTINF:-1,HBO SIGNATURE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/67.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/542.ts
+#EXTINF:-1,HEART TV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/767.ts
+#EXTINF:-1,HISTORY
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/109.ts
+#EXTINF:-1,HISTORY HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/290.ts
+#EXTINF:-1,ID
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/110.ts
+#EXTINF:-1,ID HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/508.ts
+#EXTINF:-1,LIFETIME
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/152.ts
+#EXTINF:-1,LIFETIME HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/844.ts
+#EXTINF:-1,LIVRE TV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/342.ts
+#EXTINF:-1,MAIS GLOBOSAT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/151.ts
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/871.ts
+#EXTINF:-1,MAX
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/111.ts
+#EXTINF:-1,MAX HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/839.ts
+#EXTINF:-1,MAX PRIME
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/112.ts
+#EXTINF:-1,MAX PRIME HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/841.ts
+#EXTINF:-1,MAX PRIME E
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/353.ts
+#EXTINF:-1,MAX UP
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/66.ts
+#EXTINF:-1,MAX UP HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/840.ts
+#EXTINF:-1,MEGAPIX
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/113.ts
+#EXTINF:-1,MEGAPIX HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/505.ts
+#EXTINF:-1,MULTISHOW
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/114.ts
+#EXTINF:-1,MULTISHOW HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/514.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/150.ts
+#EXTINF:-1,MTV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/65.ts
+#EXTINF:-1,MTV HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/854.ts
+#EXTINF:-1,NAT GEO
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/115.ts
+#EXTINF:-1,NAT GEO HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/307.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/354.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/520.ts
+#EXTINF:-1,NBR
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/149.ts
+#EXTINF:-1,NICK
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/116.ts
+#EXTINF:-1,NICK HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/872.ts
+#EXTINF:-1,NICK JR.
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/117.ts
+#EXTINF:-1,NHK
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/355.ts
+#EXTINF:-1,NOVO TEMPO
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/171.ts
+#EXTINF:-1,OFF
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/64.ts
+#EXTINF:-1,OFF HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/529.ts
+#EXTINF:-1,PARAMOUNT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/63.ts
+#EXTINF:-1,PARAMOUNT HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/543.ts
+#EXTINF:-1,PLAYBOY
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/62.ts
+#EXTINF:-1,PLAY TV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/148.ts
+#EXTINF:-1,PREMIERE CLUBES
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/123.ts
+#EXTINF:-1,PREMIERE CLUBES FULL-HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/312.ts
+#EXTINF:-1,PREMIERE 2
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/118.ts
+#EXTINF:-1,PREMIERE 2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/308.ts
+#EXTINF:-1,PREMIERE 3
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/119.ts
+#EXTINF:-1,PREMIERE 3 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/309.ts
+#EXTINF:-1,PREMIERE 4
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/120.ts
+#EXTINF:-1,PREMIERE 4 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/310.ts
+#EXTINF:-1,PREMIERE 5
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/59.ts
+#EXTINF:-1,PREMIERE 5 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/311.ts
+#EXTINF:-1,PREMIERE 6
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/61.ts
+#EXTINF:-1,PREMIERE 7
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/121.ts
+#EXTINF:-1,PREMIERE 8
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/60.ts
+#EXTINF:-1,PREMIERE 9
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/122.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/147.ts
+#EXTINF:-1,RBI
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/178.ts
+#EXTINF:-1,RBS TV PORTO ALEGRE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/179.ts
+#EXTINF:-1,RECORD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/58.ts
+#EXTINF:-1,RECORD HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/313.ts
+#EXTINF:-1,RECORD NEWS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/57.ts
+#EXTINF:-1,REDE BRASIL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/146.ts
+#EXTINF:-1,REDE TV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/124.ts
+#EXTINF:-1,REDE TV HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/715.ts
+#EXTINF:-1,REDE VIDA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/145.ts
+#EXTINF:-1,RIT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/180.ts
+#EXTINF:-1,SBT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/47.ts
+#EXTINF:-1,SBT HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/314.ts
+#EXTINF:-1,SEXY HOT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/55.ts
+#EXTINF:-1,SEXTREME
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/56.ts
+#EXTINF:-1,SIC INTERNACIONAL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/144.ts
+#EXTINF:-1,SONY
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/125.ts
+#EXTINF:-1,SONY HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/517.ts
+#EXTINF:-1,SPACE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/126.ts
+#EXTINF:-1,SPACE HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/512.ts
+#EXTINF:-1,SPORTV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/127.ts
+#EXTINF:-1,SPORTV HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/317.ts
+#EXTINF:-1,SPORTV 2
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/54.ts
+#EXTINF:-1,SPORTV 2 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/315.ts
+#EXTINF:-1,SPORTV 3
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/128.ts
+#EXTINF:-1,SPORTV 3 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/316.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/129.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/873.ts
+#EXTINF:-1,SYFY
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/141.ts
+#EXTINF:-1,SYFY HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/845.ts
+#EXTINF:-1,TBS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/130.ts
+#EXTINF:-1,TBS HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/714.ts
+#EXTINF:-1,TCM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/41.ts
+#EXTINF:-1,TELECINE PREMIUM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/51.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/321.ts
+#EXTINF:-1,TELECINE ACTION
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/53.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/318.ts
+#EXTINF:-1,TELECINE PIPOCA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/132.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/320.ts
+#EXTINF:-1,TELECINE TOUCH
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/50.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/521.ts
+#EXTINF:-1,TELECINE FUN
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/131.ts
+#EXTINF:-1,TELECINE FUN HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/319.ts
+#EXTINF:-1,TELECINE CULT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/52.ts
+#EXTINF:-1,TELECINE CULT HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/838.ts
+#EXTINF:-1,TLC
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/133.ts
+#EXTINF:-1,TLC HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/858.ts
+#EXTINF:-1,TNT
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/49.ts
+#EXTINF:-1,TNT HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/322.ts
+#EXTINF:-1,TNT SERIES
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/140.ts
+#EXTINF:-1,TNT SERIES HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/545.ts
+#EXTINF:-1,TOONCAST
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/139.ts
+#EXTINF:-1,TRUTV
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/138.ts
+#EXTINF:-1,TV ANHANGUERA GOIANIA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/773.ts
+#EXTINF:-1,TV ESCOLA HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/710.ts
+#EXTINF:-1,TV RATIMBUM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/836.ts
+#EXTINF:-1,TV SAN
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/580.ts
+#EXTINF:-1,TV TEM BAURU
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/774.ts
+#EXTINF:-1,TV TEM SOROCABA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/775.ts
+#EXTINF:-1,TV VERDADE
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/874.ts
+#EXTINF:-1,UNIVERSAL
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/48.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/546.ts
+#EXTINF:-1,VIVA
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/46.ts
+#EXTINF:-1,VIVA HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/515.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/165.ts
+#EXTINF:-1,VH1 HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/855.ts
+#EXTINF:-1,WARNER
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/45.ts
+#EXTINF:-1,WARNER CHANNEL HD
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/776.ts
+#EXTINF:-1,WOOHOO
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/134.ts
+#EXTINF:-1,Velozes e Furiosos 8
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/926.mp4
+#EXTINF:-1,12 Horas para Sobreviver:O Ano Da Eleição/Uma Noite de Crime 3
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/878.mp4
+#EXTINF:-1,10000 Anos Depois
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/923.mp4
+#EXTINF:-1,A Bailarina
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/935.mp4
+#EXTINF:-1,A Bruxa de Blair 2: O Livro das Sombras
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/915.mp4
+#EXTINF:-1,A Chegada
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/913.mp4
+#EXTINF:-1,A Grande Muralha
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/929.mp4
+#EXTINF:-1,A Ilha da Caveira
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/932.mp4
+#EXTINF:-1,A mumia
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/930.mp4
+#EXTINF:-1,A Ultima Ressaca Do Ano
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/892.mp4
+#EXTINF:-1,A Volta do Juizo Final
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/912.mp4
+#EXTINF:-1,Abril e o Mundo Extraordinario
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/921.mp4
+#EXTINF:-1,Amor & Amizade
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/920.mp4
+#EXTINF:-1,Animais Fantasticos e Onde Habitam
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/902.mp4
+#EXTINF:-1,As Aventuras de Pi
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/900.mp4
+#EXTINF:-1,Assassin's Creed
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/893.mp4
+#EXTINF:-1,Assassino a Preço Fixo 2: A Ressurreicao
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/901.mp4
+#EXTINF:-1,Bruxa de Blair
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/914.mp4
+#EXTINF:-1,Call to Duty:Fora de Alcance
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/891.mp4
+#EXTINF:-1,Como Eu Era Antes de Voce
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/899.mp4
+#EXTINF:-1,Desventuras em Serie
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/924.mp4
+#EXTINF:-1,Doutor Estranho
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/911.mp4
+#EXTINF:-1,Esquadrao de Elite
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/910.mp4
+#EXTINF:-1,Fome de Poder
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/927.mp4
+#EXTINF:-1,Fugindo Do Inferno
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/909.mp4
+#EXTINF:-1,Hancock
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/890.mp4
+#EXTINF:-1,Hora de Voltar
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/898.mp4
+#EXTINF:-1,Horizonte Profundo:Desastre no Golfo
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/889.mp4
+#EXTINF:-1,iBoy
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/919.mp4
+#EXTINF:-1,Jack Reacher: Sem Retorno
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/908.mp4
+#EXTINF:-1,John Wick  Um Novo Dia para Matar
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/934.mp4
+#EXTINF:-1,Kick Ass: Quebrando Tudo
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/897.mp4
+#EXTINF:-1,Kick-Ass 2
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/896.mp4
+#EXTINF:-1,Liga da Justica Sombria
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/918.mp4
+#EXTINF:-1,Logan
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/933.mp4
+#EXTINF:-1,Meu Irmao Cego
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/907.mp4
+#EXTINF:-1,Minha Mae é Uma Peca 2
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/888.mp4
+#EXTINF:-1,Minha Mãe e Uma Peça: O Filme
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/895.mp4
+#EXTINF:-1,Moana: Um Mar de Aventuras
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/887.mp4
+#EXTINF:-1,Monster Trucks
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/877.mp4
+#EXTINF:-1,O Chamado 3
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/931.mp4
+#EXTINF:-1,O Codigo Da Vinci
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/925.mp4
+#EXTINF:-1,O Exorcismo de Anna Ecklund
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/886.mp4
+#EXTINF:-1,O Monstro no Armario
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/885.mp4
+#EXTINF:-1,O Nome do Jogo
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/922.mp4
+#EXTINF:-1,O Shaolin do Sertao
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/894.mp4
+#EXTINF:-1,Ouija: Exorcismo
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/904.mp4
+#EXTINF:-1,Ouija: Onde Tudo Comecou
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/905.mp4
+#EXTINF:-1,Ouija: Origem Do Mal
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/903.mp4
+#EXTINF:-1,Pandora
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/883.mp4
+#EXTINF:-1,Passageiros
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/884.mp4
+#EXTINF:-1,Rei Arthur  A Lenda da Espada
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/928.mp4
+#EXTINF:-1,Resgate Suicida
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/875.mp4
+#EXTINF:-1,Resident Evil 6:O Capítulo Final
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/882.mp4
+#EXTINF:-1,Rio 2
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/881.mp4
+#EXTINF:-1,Rogue One: Uma História Star Wars
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/876.mp4
+#EXTINF:-1,Sacrificio
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/917.mp4
+#EXTINF:-1,Stereo
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/906.mp4
+#EXTINF:-1,Trolls
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/916.mp4
+#EXTINF:-1,Uma Noite de Crime
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/880.mp4
+#EXTINF:-1,Uma Noite de Crime 2:Anarquia
+http://iptv.servidorfull.com:8081/movie/Rev5/yoq9PyB4yd/879.mp4
+#EXTINF:-1,104 FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/682.ts
+#EXTINF:-1,BH FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/698.ts
+#EXTINF:-1,Band FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/709.ts
+#EXTINF:-1,Band News FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/706.ts
+#EXTINF:-1,Bandeirantes FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/708.ts
+#EXTINF:-1,Caicara FM/AM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/687.ts
+#EXTINF:-1,Capao FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/688.ts
+#EXTINF:-1,CBN SP 90.5 FM - Estudio Ao Vivo
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/673.ts
+#EXTINF:-1,Coca Cola FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/675.ts
+#EXTINF:-1,Continental FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/686.ts
+#EXTINF:-1,Eldorado FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/683.ts
+#EXTINF:-1,FM Premium
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/692.ts
+#EXTINF:-1,Globo RJ FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/703.ts
+#EXTINF:-1,Globo SP FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/697.ts
+#EXTINF:-1,Grenal FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/690.ts
+#EXTINF:-1,Joven Pan FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/700.ts
+#EXTINF:-1,Liberdade FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/685.ts
+#EXTINF:-1,Mix FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/674.ts
+#EXTINF:-1,Nativa FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/705.ts
+#EXTINF:-1,Radio Gaucha FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/701.ts
+#EXTINF:-1,Radio Imbe FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/695.ts
+#EXTINF:-1,Radio Transamerica
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/704.ts
+#EXTINF:-1,RFI FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/702.ts
+#EXTINF:-1,Pampa FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/684.ts
+#EXTINF:-1,Praia FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/689.ts
+#EXTINF:-1,Princesa FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/694.ts
+#EXTINF:-1,Transamerica FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/677.ts
+#EXTINF:-1,Tramandai FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/691.ts
+#EXTINF:-1,Truckers FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/678.ts
+#EXTINF:-1,VERDES MARES FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/707.ts
+#EXTINF:-1,Xangrila FM
+http://iptv.servidorfull.com:8081/live/Rev5/yoq9PyB4yd/693.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pYCwzMGD1ss/WREiR_n9pVI/AAAAAAAAB5o/b860J-Ika3woou_P4wJkWC7f6PCDQqENgCK4B/s1600/banner.png" group-title="Futebol ao vivo", Jogos AO VIVO Playtvgeh
 http://loadnovo.aovivo.gratis:8081/live/18/playlist.m3u8
