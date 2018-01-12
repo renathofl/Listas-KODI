@@ -1,35 +1,4 @@
-#EXTM3U
- 
-#EXTINF:-1,DISCOVERY CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8     
-#EXTINF:-1,DISCOVERY H&H
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,ID
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,A&E
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
-#EXTINF:-1,FOX SERIES
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,HBO
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,HBO 2
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,HBO PLUS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
-#EXTINF:-1,NATGEO KIDS
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,TOONCAST
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
-#EXTINF:-1,CARTOON NETWORT
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+
 
 
 
