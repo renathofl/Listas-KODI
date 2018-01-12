@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1,DISCOVERY CHANNEL
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8     15 canais ok 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8     
 #EXTINF:-1,DISCOVERY H&H
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
 #EXTINF:-1,ID
